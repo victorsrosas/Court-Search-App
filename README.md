@@ -13,8 +13,11 @@ This project demonstrates skills in API integration, data handling, and UI desig
 - Tabular output powered by pandas, displayed in a clean Streamlit UI
 - Export table to CSV, enlarge table, and search within table
 ---
+**LIVE APP**
+[https://court-search-app.streamlit.app/][https://court-search-app.streamlit.app/] 
 
-## Demo
+---
+## Screenshots
 ### Search: *Microsoft v. United States*
 ![Search Microsoft v. United States](Screenshots/Search%20-%20Microsoft%20v.%20United%20States.png)
 
