@@ -14,6 +14,9 @@ This project demonstrates skills in API integration, data handling, and UI desig
 - Export table to CSV, enlarge table, and search within table
 ---
 
-##Demo
+## Demo
+### Search: *Microsoft v. United States*
 ![Search Microsoft v. United States](Screenshots/Search%20-%20Microsoft%20v.%20United%20States.png)
-![Search Microsoft](Screenshots/Search%20-%20Microsoft.png)  
+
+### Search: *Microsoft*
+![Search Microsoft](Screenshots/Search%20-%20Microsoft.png) 
