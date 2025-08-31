@@ -1,0 +1,3 @@
+streamlit #webUI framework
+requests #calls CourtListener API over HTTP
+pandas #import data from CSV files
