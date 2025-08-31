@@ -11,9 +11,9 @@ This project demonstrates skills in API integration, data handling, and UI desig
 - Results include case name, court, citation, filing date, and URL
 - Built-in error handling for redirects, timouts, and missing fields
 - Tabular output powered by pandas, displayed in a clean Streamlit UI
-
+- Export table to CSV, enlarge table, and search within table
 ---
 
 ##Demo
-![Demo screenshot]("Screenshots/Search - Microsoft v. United States.png")
-![Demo screenshot]("Screenshots/Search - Microsoft.png")  
+![Search Microsoft v. United States](Screenshots/Search%20-%20Microsoft%20v.%20United%20States.png)
+![Search Microsoft](Screenshots/Search%20-%20Microsoft.png)  
