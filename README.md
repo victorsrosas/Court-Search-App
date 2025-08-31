@@ -1,2 +1,2 @@
-# Court-Case-Search-Application
-A small web app where you type keywords and shows a table of the most relevant results, including Case Name, Court, Date, Citation, and URL. 
+# ⚖️ Court Case Search — Legal Research with CourtListener API
+A simple, Streamlit-powered app that lets you search U.S. court opinions by case name, party, or citation.
