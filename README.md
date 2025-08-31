@@ -14,7 +14,7 @@ This project demonstrates skills in API integration, data handling, and UI desig
 - Export table to CSV, enlarge table, and search within table
 ---
 **LIVE APP**
-[https://court-search-app.streamlit.app/][https://court-search-app.streamlit.app/] 
+[https://court-search-app.streamlit.app/]
 
 ---
 ## Screenshots
